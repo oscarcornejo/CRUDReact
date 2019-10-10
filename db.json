@@ -1,0 +1,16 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Carne",
+      "precioPlatillo": "434343",
+      "categoria": "cortes",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Ensalada Rusa",
+      "precioPlatillo": "2500",
+      "categoria": "ensalada",
+      "id": 6
+    }
+  ]
+}
